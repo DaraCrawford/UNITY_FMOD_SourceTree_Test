@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{623bbc49-2f5d-409a-add1-afc1a2fd090c}">
+		<property name="assetPath">
+			<value>Forgotten Memories.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>194</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c0795c1b-7efe-4499-974f-003a92b7e611}</destination>
+		</relationship>
+	</object>
+</objects>
